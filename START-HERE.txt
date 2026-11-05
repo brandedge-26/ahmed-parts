@@ -1,0 +1,12 @@
+AHMED PARTS WEBSITE — EXPANDED EDITION
+
+1. Extract the ZIP.
+2. Open dist/index.html for a quick preview.
+3. To host it, upload the contents of dist/ to your static hosting folder.
+
+No npm installation, build step, database or API key is required.
+
+Includes: full-panel shop directions, interactive repair guide, animated component view, brand/model selector, visit checklist, dated Google review summary, WhatsApp enquiry builder, responsive layouts and all images/fonts.
+
+Add confirmed social profile URLs to dist/site-config.js. Unconfigured accounts are hidden.
+Read README.md for details, hosting notes and the review snapshot date.
