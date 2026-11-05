@@ -18,3 +18,16 @@
 ::1 - - [05/Nov/2026 15:11:29] "GET /site-config.js HTTP/1.1" 200 -
 ::1 - - [05/Nov/2026 15:11:29] "GET /enhancements.js HTTP/1.1" 200 -
 ::1 - - [05/Nov/2026 15:11:41] "GET /assets/repair-detail.png HTTP/1.1" 200 -
+::1 - - [05/Nov/2026 15:47:09] "GET / HTTP/1.1" 304 -
+::1 - - [05/Nov/2026 15:47:09] "GET /styles.css HTTP/1.1" 304 -
+::1 - - [05/Nov/2026 15:47:09] "GET /enhancements.css HTTP/1.1" 304 -
+::1 - - [05/Nov/2026 15:47:09] "GET /app.js HTTP/1.1" 304 -
+::1 - - [05/Nov/2026 15:47:09] "GET /site-config.js HTTP/1.1" 304 -
+::1 - - [05/Nov/2026 15:47:09] "GET /enhancements.js HTTP/1.1" 304 -
+::1 - - [05/Nov/2026 15:47:09] "GET /app.js HTTP/1.1" 304 -
+::1 - - [05/Nov/2026 15:47:09] "GET /assets/brand-source.jpg HTTP/1.1" 304 -
+::1 - - [05/Nov/2026 15:47:09] "GET /site-config.js HTTP/1.1" 304 -
+::1 - - [05/Nov/2026 15:47:09] "GET /enhancements.js HTTP/1.1" 304 -
+::1 - - [05/Nov/2026 15:47:09] "GET /assets/jakarta-latin.woff2 HTTP/1.1" 304 -
+::1 - - [05/Nov/2026 15:47:09] "GET /assets/favicon.svg HTTP/1.1" 304 -
+::1 - - [05/Nov/2026 15:47:10] "GET /assets/repair-detail.png HTTP/1.1" 304 -
